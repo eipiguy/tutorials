@@ -1,0 +1,15 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-w",
+            "-g",
+            "-o",
+            "02_getting_an_image_on_the_screen",
+            "02_getting_an_image_on_the_screen.cpp"
+        ],
+        "directory": "/home/neal/Dropbox/Code/sdl2 tutorials/lesson02",
+        "file": "02_getting_an_image_on_the_screen.cpp"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-w",
+            "-o",
+            "01_hello_SDL",
+            "01_hello_SDL.cpp"
+        ],
+        "directory": "/home/neal/Dropbox/Code/sdl2 tutorials/lesson01",
+        "file": "01_hello_SDL.cpp"
+    }
+]
